@@ -1,6 +1,6 @@
-# Python_Mix_Questions-
+# Python_Mix_Questions :
 
-# Python Mix Questions – Strings Practice
+# Python Mix Questions 
 
 This repo has my practice notebook for Python strings and basic type handling. I solved these questions while learning Python for data science, and I wrote short comments in the notebook to explain why an answer works.
 
