@@ -1,7 +1,5 @@
 # Python_Mix_Questions :
 
-# Python Mix Questions 
-
 This repo has my practice notebook for Python strings and basic type handling. I solved these questions while learning Python for data science, and I wrote short comments in the notebook to explain why an answer works.
 
 Strings look easy in the beginning, but they come up everywhere in real data work: cleaning column names, building file names, writing SQL text, parsing dates and fixing messy values. So I wanted to get the basics really strong.
