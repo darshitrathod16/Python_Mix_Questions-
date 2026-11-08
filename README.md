@@ -1,14 +1,14 @@
 # Python_Mix_Questions :
 
-This repo has my practice notebook for Python strings and basic type handling. I solved these questions while learning Python for data science, and I wrote short comments in the notebook to explain why an answer works.
+- This repo has my practice notebook for Python strings and basic type handling. I solved these questions while learning Python for data science, and I wrote short comments in the notebook to explain why an answer works.
 
-Strings look easy in the beginning, but they come up everywhere in real data work: cleaning column names, building file names, writing SQL text, parsing dates and fixing messy values. So I wanted to get the basics really strong.
+- Strings look easy in the beginning, but they come up everywhere in real data work: cleaning column names, building file names, writing SQL text, parsing dates and fixing messy values. So I wanted to get the basics really strong.
 
 ---
 
 ## What's inside
 
-The notebook is split into small sections. Each section has a few questions and my answers right below them.
+- The notebook is split into small sections. Each section has a few questions and my answers right below them.
 
 | Section | What I practiced |
 |---|---|
@@ -71,7 +71,7 @@ result = float(s.replace(",", ""))   # 1234.56
    jupyter notebook Python_Mix_Questions.ipynb
    ```
 
-No extra libraries are needed. Everything uses plain Python.
+- No extra libraries are needed. Everything uses plain Python.
 
 ---
 
@@ -86,6 +86,6 @@ No extra libraries are needed. Everything uses plain Python.
 
 ## Why I made this
 
-I learn best by writing the code myself, getting it wrong, and then understanding the mistake. This notebook is the record of that. I will keep adding more practice questions as I move to lists, dictionaries, functions and pandas.
+- I learn best by writing the code myself, getting it wrong, and then understanding the mistake. This notebook is the record of that. I will keep adding more practice questions as I move to lists, dictionaries, functions and pandas.
 
-Feel free to open it, try the questions yourself first, and compare with my answers. If you find a better way to solve any question, I would be happy to hear it.
+- Feel free to open it, try the questions yourself first, and compare with my answers. If you find a better way to solve any question, I would be happy to hear it.
